@@ -1,0 +1,58 @@
+body,
+html {
+    height: 100%;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.bg-img {
+    background-image: url('./pexels-ivan-torres-1374585.jpg');
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo {
+    font-size: x-large;
+}
+
+header {
+    font-size: large;
+    font-weight: 500;
+    padding: 20px 0px;
+}
+
+header div ul li {
+    color: gray;
+    list-style-type: none;
+    padding: 5px 40px;
+}
+
+
+/* main-section */
+
+h1 {
+    color: lightseagreen;
+}
+
+.test {
+    display: flex;
+    gap: 20px;
+}
+
+.main {
+    margin-top: 14%;
+    color: white;
+}
+
+.form-1 {
+    color: green;
+}
+
+input {
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 100%;
+    padding: 10px 12px;
+}
